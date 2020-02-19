@@ -5,9 +5,9 @@
 
 3. XOR Coding is also included, but the number of parity chunk is limited to 1 similar to RAID5. 
 
-4. A simple example about how to use them to do data encoding, delta encoding, and data decoing is in the main.c file. 
+4. A simple example about how to use them for data encoding, delta encoding, and data decoing is in the file main.c. 
 
-5. Static and shared library can be generated using make.
+5. Static and dynamic library can be generated using make.
 
 
 # Install
