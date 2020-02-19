@@ -7,6 +7,8 @@
 
 4. A simple example about how to use them to do data encoding, delta encoding, and data decoing is in the main.c file. 
 
+5. Static and shared library can be generated using make.
+
 
 # Install
 Linux 64bit.
