@@ -7,12 +7,6 @@
 
 4. A simple example about how to use them to do data encoding, delta encoding, and data decoing is in the main.c file. 
 
-./configure
-
-make 
-
-sudo ./main [a single file name]
-
 
 # Install
 Linux 64bit.
@@ -22,6 +16,12 @@ Jerasure: a library in C that supports erasure coding in storage applications.
 GF-Complete: a Comprehensive Library for Galois Field Arithmetic.
 
 [Link](http://jerasure.org/)
+
+make 
+
+# Uninstall
+
+make clean
 
 # Reference
 
